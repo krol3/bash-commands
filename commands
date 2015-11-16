@@ -2,4 +2,4 @@ ember https://raw.githubusercontent.com/alesaudate/commands/master/ember.bash
 npm https://raw.githubusercontent.com/alesaudate/commands/master/ember.bash
 sqldeveloper https://raw.githubusercontent.com/alesaudate/commands/master/sqldeveloper.bash
 oracle-xe https://raw.githubusercontent.com/alesaudate/commands/master/oracle-xe.bash
-stop https://raw.githubusercontent.com/alesaudate/commands/master/stop.bash
+stop-containers https://raw.githubusercontent.com/alesaudate/commands/master/stop.bash
