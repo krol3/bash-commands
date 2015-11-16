@@ -1,2 +1,2 @@
-docker pull $coluna
-docker run -i -v $folder:/root $coluna ${command} ${args[@]}
+docker pull visualjeff/ember-cli
+docker run -i -v `pwd`:/root visualjeff/ember-cli ${command} ${args[@]}
