@@ -1,2 +1,2 @@
 docker pull visualjeff/ember-cli
-echo 'docker run -i -v `pwd`:/root visualjeff/ember-cli ${command} ${args[@]}'
+docker run -i -v $1:/root visualjeff/ember-cli $@
