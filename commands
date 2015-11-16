@@ -3,4 +3,4 @@ npm https://raw.githubusercontent.com/alesaudate/commands/master/ember.bash
 sqldeveloper https://raw.githubusercontent.com/alesaudate/commands/master/sqldeveloper.bash
 oracle-xe https://raw.githubusercontent.com/alesaudate/commands/master/oracle-xe.bash
 stop-containers https://raw.githubusercontent.com/alesaudate/commands/master/stop.bash
-java8 https://raw.githubusercontent.com/alesaudate/commands/master/java.bash
+java https://raw.githubusercontent.com/alesaudate/commands/master/java.bash
