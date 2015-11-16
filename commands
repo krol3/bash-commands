@@ -1,3 +1,3 @@
 ember https://raw.githubusercontent.com/alesaudate/commands/master/ember.bash
-npm imichael/npm-linux
-sqldeveloper guywithnose/sqldeveloper
+npm https://raw.githubusercontent.com/alesaudate/commands/master/ember.bash
+sqldeveloper https://raw.githubusercontent.com/alesaudate/commands/master/sqldeveloper.bash
